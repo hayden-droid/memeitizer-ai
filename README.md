@@ -1,17 +1,17 @@
-<h1 align="center">💬 Nino - AI Chatbot</h1>
+<h1 align="center">💬 Memeitizer - AI Chatbot</h1>
 <h3 align="center">An artificial intelligence chatbot able to learn. Made with html, css, javascript and firebase.</h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/johnggli/nino?color=%23FF669D">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/hayden-droid/memeitizer-ai?color=%23FF669D">
   
-  <a href="https://www.linkedin.com/in/johnggli/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-John%20Emerson-%23FF669D">
+  <a href="https://www.snapchat.com/add/hdr9654/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Memeitizer%20Limited-%23FF669D">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnggli/nino?color=%23FF669D">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/hayden-droid/memeitizer-ai?color=%23FF669D">
   
-  <a href="https://github.com/johnggli/nino/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnggli/nino?color=%23FF669D">
+  <a href="https://github.com/hayden-droid/memeitizer-ai/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/hayden-droid/memeitizer-ai?color=%23FF669D">
   </a>
 </p>
 
