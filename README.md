@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="https://user-images.githubusercontent.com/43749971/111331199-6c278600-864f-11eb-9548-a959db021f67.gif">
+  <img alt="Layout" src="https://avatars.githubusercontent.com/u/61548447?s=96&v=4">
 </p>
 
 ---
@@ -43,10 +43,10 @@
 ```javascript
 const firebaseConfig = {
   apiKey: "000000000000000000000000000000000000000",
-  authDomain: "nino.firebaseapp.com",
-  databaseURL: "https://nino-default-rtdb.firebaseio.com",
-  projectId: "nino",
-  storageBucket: "nino.appspot.com",
+  authDomain: "memeitizer-ai.firebaseapp.com",
+  databaseURL: "https://memeitizer-ai-default-rtdb.firebaseio.com",
+  projectId: "memeitizer-ai",
+  storageBucket: memeitizer-ai.appspot.com",
   messagingSenderId: "000000000000",
   appId: "1:000000000000:web:0000000000000000000000"
 };
@@ -57,10 +57,10 @@ const firebaseConfig = {
 
 var config = {
   API_KEY: '000000000000000000000000000000000000000',
-  AUTH_DOMAIN: 'nino.firebaseapp.com',
-  DATABASE_URL: 'https://nino-default-rtdb.firebaseio.com',
-  PROJECT_ID: 'nino',
-  STORAGE_BUCKET: 'nino.appspot.com',
+  AUTH_DOMAIN: 'memeitizer-ai.firebaseapp.com',
+  DATABASE_URL: 'https://memeitizer-ai-default-rtdb.firebaseio.com',
+  PROJECT_ID: 'memeitizer-ai',
+  STORAGE_BUCKET: 'memeitizer-ai.appspot.com',
   MESSAGING_SENDER_ID: '000000000000',
   APP_ID: '1:000000000000:web:0000000000000000000000'
 };
@@ -82,4 +82,3 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
