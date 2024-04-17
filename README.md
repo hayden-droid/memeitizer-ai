@@ -34,7 +34,7 @@
 
 - This is an open source project of an artificial intelligence chatbot capable of learning new answers. This project was done using html, css (Bootstrap 4), javascript (JQuery) and Firebase.
 
-- [Live demo](https://ninoai.netlify.app)
+- [Live demo](https://hayden-droid.github.io/memeitizer-ai)
 
 ## 🚀 Getting started
 
